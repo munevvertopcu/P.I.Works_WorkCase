@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pAFSzUBfiRSXPa9eaz6UQknwYrbeumYN+RJ6EKkODDjucEOfZNLyGTv49yimcYaLUjTh78gc/3lERerpZI7ygQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\munevver\\source\\repos\\PIWorks_WorkCase\\PIWorks_WorkCase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\munevver\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

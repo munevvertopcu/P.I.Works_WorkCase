@@ -1,0 +1,16 @@
+C:\Users\munevver\source\repos\PIWorks_WorkCase\bin\Debug\net5.0\PIWorks_WorkCase.exe
+C:\Users\munevver\source\repos\PIWorks_WorkCase\bin\Debug\net5.0\PIWorks_WorkCase.deps.json
+C:\Users\munevver\source\repos\PIWorks_WorkCase\bin\Debug\net5.0\PIWorks_WorkCase.runtimeconfig.json
+C:\Users\munevver\source\repos\PIWorks_WorkCase\bin\Debug\net5.0\PIWorks_WorkCase.runtimeconfig.dev.json
+C:\Users\munevver\source\repos\PIWorks_WorkCase\bin\Debug\net5.0\PIWorks_WorkCase.dll
+C:\Users\munevver\source\repos\PIWorks_WorkCase\bin\Debug\net5.0\ref\PIWorks_WorkCase.dll
+C:\Users\munevver\source\repos\PIWorks_WorkCase\bin\Debug\net5.0\PIWorks_WorkCase.pdb
+C:\Users\munevver\source\repos\PIWorks_WorkCase\obj\Debug\net5.0\PIWorks_WorkCase.csproj.AssemblyReference.cache
+C:\Users\munevver\source\repos\PIWorks_WorkCase\obj\Debug\net5.0\PIWorks_WorkCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\munevver\source\repos\PIWorks_WorkCase\obj\Debug\net5.0\PIWorks_WorkCase.AssemblyInfoInputs.cache
+C:\Users\munevver\source\repos\PIWorks_WorkCase\obj\Debug\net5.0\PIWorks_WorkCase.AssemblyInfo.cs
+C:\Users\munevver\source\repos\PIWorks_WorkCase\obj\Debug\net5.0\PIWorks_WorkCase.csproj.CoreCompileInputs.cache
+C:\Users\munevver\source\repos\PIWorks_WorkCase\obj\Debug\net5.0\PIWorks_WorkCase.dll
+C:\Users\munevver\source\repos\PIWorks_WorkCase\obj\Debug\net5.0\ref\PIWorks_WorkCase.dll
+C:\Users\munevver\source\repos\PIWorks_WorkCase\obj\Debug\net5.0\PIWorks_WorkCase.pdb
+C:\Users\munevver\source\repos\PIWorks_WorkCase\obj\Debug\net5.0\PIWorks_WorkCase.genruntimeconfig.cache
